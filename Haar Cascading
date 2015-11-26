@@ -1,0 +1,5 @@
+# We are just going to do haar cascading to detect images
+# and not actually memorizing the features. Haar #cascading is a machine learning technique.   
+# In this technique the cascading fn is trained a lot 
+#using positive and negative images. It is then used to
+#detect objects in other images.
